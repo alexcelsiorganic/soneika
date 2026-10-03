@@ -1,4 +1,4 @@
-const CACHE = "soneika-v1";
+const CACHE = "soneika-v2";
 const FILES = ["./kotiku.html", "./manifest.webmanifest", "./icon-180.png", "./icon-192.png", "./icon-512.png"];
 
 self.addEventListener("install", e => {
